@@ -1,0 +1,11 @@
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\bin\Release\IA8p.exe.config
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\bin\Release\IA8p.exe
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\bin\Release\IA8p.pdb
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Release\IA8p.csprojAssemblyReference.cache
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Release\IA8p.Velocidade.resources
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Release\IA8p.puzzle.resources
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Release\IA8p.Properties.Resources.resources
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Release\IA8p.Questao.resources
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Release\IA8p.csproj.GenerateResource.cache
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Release\IA8p.exe
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Release\IA8p.pdb

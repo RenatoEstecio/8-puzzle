@@ -1,0 +1,39 @@
+c:\users\pc\documents\visual studio 2012\Projects\IA8p\IA8p\bin\Debug\IA8p.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\IA8p\IA8p\bin\Debug\IA8p.exe
+c:\users\pc\documents\visual studio 2012\Projects\IA8p\IA8p\bin\Debug\IA8p.pdb
+c:\users\pc\documents\visual studio 2012\Projects\IA8p\IA8p\obj\Debug\IA8p.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\IA8p\IA8p\obj\Debug\IA8p.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\IA8p\IA8p\obj\Debug\IA8p.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\IA8p\IA8p\obj\Debug\IA8p.exe
+c:\users\pc\documents\visual studio 2012\Projects\IA8p\IA8p\obj\Debug\IA8p.pdb
+C:\Users\PC\Desktop\IA8p\IA8p\bin\Debug\IA8p.exe.config
+C:\Users\PC\Desktop\IA8p\IA8p\bin\Debug\IA8p.exe
+C:\Users\PC\Desktop\IA8p\IA8p\bin\Debug\IA8p.pdb
+C:\Users\PC\Desktop\IA8p\IA8p\obj\Debug\IA8p.puzzle.resources
+C:\Users\PC\Desktop\IA8p\IA8p\obj\Debug\IA8p.Properties.Resources.resources
+C:\Users\PC\Desktop\IA8p\IA8p\obj\Debug\IA8p.Questao.resources
+C:\Users\PC\Desktop\IA8p\IA8p\obj\Debug\IA8p.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\IA8p\IA8p\obj\Debug\IA8p.exe
+C:\Users\PC\Desktop\IA8p\IA8p\obj\Debug\IA8p.pdb
+C:\Users\PC\Desktop\IA8p\IA8p\obj\Debug\IA8p.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\IA8p\IA8p\bin\Debug\IA8p.exe.config
+C:\Users\Aluno\Downloads\IA8p\IA8p\obj\Debug\IA8p.exe
+C:\Users\Aluno\Downloads\IA8p\IA8p\obj\Debug\IA8p.pdb
+C:\Users\Aluno\Downloads\IA8p\IA8p\bin\Debug\IA8p.exe
+C:\Users\Aluno\Downloads\IA8p\IA8p\bin\Debug\IA8p.pdb
+C:\Users\Aluno\Downloads\IA8p\IA8p\obj\Debug\IA8p.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\IA8p\IA8p\obj\Debug\IA8p.puzzle.resources
+C:\Users\Aluno\Downloads\IA8p\IA8p\obj\Debug\IA8p.Properties.Resources.resources
+C:\Users\Aluno\Downloads\IA8p\IA8p\obj\Debug\IA8p.Questao.resources
+C:\Users\Aluno\Downloads\IA8p\IA8p\obj\Debug\IA8p.csproj.GenerateResource.Cache
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\bin\Debug\IA8p.exe.config
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\bin\Debug\IA8p.exe
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\bin\Debug\IA8p.pdb
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Debug\IA8p.csprojAssemblyReference.cache
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Debug\IA8p.puzzle.resources
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Debug\IA8p.Properties.Resources.resources
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Debug\IA8p.Questao.resources
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Debug\IA8p.csproj.GenerateResource.cache
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Debug\IA8p.exe
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Debug\IA8p.pdb
+G:\GoogleDrive\[Programação]\[BSI]\[06] I.A\2017\8puzzle\IA8p\IA8p\obj\Debug\IA8p.Velocidade.resources
